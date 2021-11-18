@@ -1,2 +1,2 @@
-# Machine-Learning
-this is my first repository
+# Air Quality Index Prediction
+Creating the best MACHINE LEARNING model 
